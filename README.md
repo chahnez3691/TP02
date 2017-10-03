@@ -62,4 +62,7 @@
         git pull https://github.com/nomducollegue/TP02.git nomdesabranche
 
 * Réglez le conflit. Mettez à jour votre branche maître. Publiez.
+<<<<<<< HEAD
 * chahnez TURKI.
+* juan. 
+
